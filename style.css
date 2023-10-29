@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+}
+
+nav {
+    color: #fff;
+}
+
+table, tr, td, th {
+    border: 1px solid;
+    /*
+    border-spacing: 0px;
+    border-collapse: collapse;
+    */
+}
+
+ caption {
+    border: 1px solid;
+    background-color: #ddd;
+}
+
